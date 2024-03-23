@@ -1,6 +1,6 @@
 ### Technologies used
 
-- VueJS
+- Vue.js
 - NestJS
 - PostgreSQL
 
