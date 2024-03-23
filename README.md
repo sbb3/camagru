@@ -1,8 +1,8 @@
 ### Technologies used
 
-- Next.js
-- Prisma
-- Vercel Postgres
+- VueJS
+- NestJS
+- PostgreSQL
 
 ### Project Status
 
